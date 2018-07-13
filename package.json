@@ -1,0 +1,9 @@
+{
+  "name": "SebsterCMS",
+  "version": "1.0.0",
+  "description": "CMS",
+  "main": "main.js",
+  "repository": "https://github.com/Cronnay/SebsterCMS.git",
+  "author": "Sebastian Berglönn <sebastianberglonn@gmail.com>",
+  "license": "MIT"
+}
